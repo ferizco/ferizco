@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ferizco
 
 ### About Me
-🎓 &nbsp;I'm currently studying Computer Science at the Sriwijaya University.\
+🎓 &nbsp;I'm Computer science graduate of Sriwijaya University.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing on [mediaagni.com](https://www.mediaagni.com/) as hobbies.
 
