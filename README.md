@@ -3,7 +3,7 @@
 ### About Me
 🎓 &nbsp;I'm Computer science graduate of Sriwijaya University.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, IT Security & Network, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing on [mediaagni.com](https://www.mediaagni.com/) as hobbies.
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing
 
 ###  Tech Stack
 
