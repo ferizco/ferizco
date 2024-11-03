@@ -22,6 +22,12 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 
+### Release 
+Maybe usefull 
+1. [Nichash - Easily hashing file](https://github.com/ferizco/Nichash/releases)
+2. 
+3. 
+
 ### My Stats
 <p>
 <a href="https://github.com/ferizco">
@@ -31,7 +37,7 @@
 </p>
 
 ### Connect with me
-<a href="https://web.facebook.com/ferizcoagni/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.instagram.com/frzc_am/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/ferizco-agni/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.mediaagni.com/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.youtube.com/@ferizco" target="_blank"><img src="https://img.icons8.com/?size=60&id=98964&format=png" alt="Youtube" width="30"></a>
+<a href="https://www.mediaagni.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=53372&format=png" alt="Website" width="30"></a>
