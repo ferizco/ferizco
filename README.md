@@ -3,7 +3,7 @@
 ### About Me
 🎓 &nbsp;I'm Computer science graduate of Sriwijaya University.\
 🌱 &nbsp;I'm on track for learning more about Systems Design, IT Security & Network, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design, Blog Writing, and Content Creating. 
+✍️ &nbsp;In my free time, I pursue Research, Blog Writing, and Content Creating. 
 
 ###  Tech Stack
 
@@ -19,14 +19,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![Capcut](https://img.shields.io/badge/-Capcut-05122A?style=flat&logo=capcut)&nbsp;
 
 ### Release 
 Maybe usefull 
-1. [Nichash - Easily hashing file](https://github.com/ferizco/Nichash/releases)
-2. 
+1. [Nichash - Hash Generator](https://github.com/ferizco/Nichash/releases)
+2. [Mediaagni Password Checker](https://www.mediaagni.com/p/password-strength-checker.html)
 3. 
+4. 
 
 ### My Stats
 <p>
@@ -37,7 +38,5 @@ Maybe usefull
 </p>
 
 ### Connect with me
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.youtube.com/@ferizco" target="_blank"><img src="https://img.icons8.com/?size=60&id=98964&format=png" alt="Youtube" width="30"></a>
 <a href="https://www.mediaagni.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=53372&format=png" alt="Website" width="30"></a>
