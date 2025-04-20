@@ -1,35 +1,47 @@
 ## Hi 👋, I'm Ferizco
+🎯 Tech Enthusiast | Open Source Contributor | Passionate about IT Security & Systems
 
 ### About Me
-🎓 &nbsp;I'm Computer science graduate of Sriwijaya University.\
-🌱 &nbsp;I'm on track for learning more about Systems Design, IT Security & Network, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Research, Blog Writing, and Content Creating. 
+🎓 A Computer Science graduate from Sriwijaya University.  
+🌱 Currently exploring Systems Design, IT Security & Networking, and Cloud Architecture.  
+✍️ Passionate about research, blogging, and creating content during my free time.
 
-###  Tech Stack
+### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![mySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
-![Capcut](https://img.shields.io/badge/-Capcut-05122A?style=flat&logo=capcut)&nbsp;
+#### 🖥️ Programming & Scripting
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)
 
-### Release 
-Maybe usefull 
-1. [Nichash - Hash Generator](https://github.com/ferizco/Nichash/releases)
-2. [Mediaagni Password Checker](https://www.mediaagni.com/p/password-strength-checker.html)
-3. 
-4. 
+#### 🌐 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
-### My Stats
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+
+#### 🧪 Dev Tools
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+#### 🎨 Creative Tools
+![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva)&nbsp;
+![CapCut](https://img.shields.io/badge/CapCut-05122A?style=flat&logo=capcut)
+
+
+### 🚀 Featured Projects
+
+- 🔐 [Nichash - Hash Generator](https://github.com/ferizco/Nichash/releases)  
+  A command-line tool for generating hash with simple UI.
+  
+- 🔑 [MediaAgni Password Checker](https://www.mediaagni.com/p/password-strength-checker.html)  
+  A client-side password analyzer & breach checker powered by k-anonymity.
+
+### 📊 GitHub Stats
 <p>
 <a href="https://github.com/ferizco">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferizco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -37,6 +49,19 @@ Maybe usefull
 </a>
 </p>
 
-### Connect with me
-<a href="https://www.youtube.com/@ferizco" target="_blank"><img src="https://img.icons8.com/?size=60&id=98964&format=png" alt="Youtube" width="30"></a>
-<a href="https://www.mediaagni.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=53372&format=png" alt="Website" width="30"></a>
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://youtube.com/@ferizco" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube" width="30"/>
+  </a>
+  <a href="https://www.mediaagni.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="30"/>
+  </a>
+  <a href="https://linkedin.com/in/ferizco" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="https://medium.com/@ferizco" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" width="30"/>
+  </a>
+</p>
