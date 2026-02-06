@@ -97,7 +97,7 @@
   <a href="https://www.mediaagni.com" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" width="32"/>
   </a>
-  <a href="https://linkedin.com/in/ferizco" target="_blank">
+  <a href="https://linkedin.com/in/fmelenio" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
   </a>
   <a href="https://medium.com/@ferizco" target="_blank">
