@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferizco Melenio</h1>
+<h1 align="center">Hi 👋, I'm Ferizco </h1>
 <h3 align="center">
   Tech Enthusiast • Open Source Contributor • IT Security & Systems Engineer
 </h3>
